@@ -20,10 +20,9 @@ def main():
             print(f"'{ans}' is wrong answer ;(. Correct answer was '{corr(r)}'.")
             print(f"Let's try again, {name}!")
             break
-    else: 
+    else:
         print(f"Congratulations, {name}!")
 
 
 if __name__ == "__main__":
     main()
-
