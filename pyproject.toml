@@ -11,6 +11,7 @@ prompt = "^0.4.1"
 
 [tool.poetry.scripts]
 brain-games = "brain_games.scripts.BRAIN_GAMES:main"
+brain-even = "brain_games.scripts.BRAIN_EVEN:main"
 
 [tool.poetry.dev-dependencies]
 ipython = "^7.28.0"
