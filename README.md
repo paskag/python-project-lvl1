@@ -4,3 +4,4 @@
 [![Python CI](https://github.com/paskag/python-project-lvl1/workflows/Python%20CI/badge.svg)](https://github.com/paskag/python-project-lvl1/actions)
 [![asciicast](https://asciinema.org/a/Z3RE9E2ZRdITcA1QybGSUUqYH.svg)](https://asciinema.org/a/Z3RE9E2ZRdITcA1QybGSUUqYH)
 [![asciicast](https://asciinema.org/a/7A2lHB8b2tMpFW6GYbsbdOyRK.svg)](https://asciinema.org/a/7A2lHB8b2tMpFW6GYbsbdOyRK)
+[![asciicast](https://asciinema.org/a/ZqGDPdkAEInbeS84MQJI0gLoQ.svg)](https://asciinema.org/a/ZqGDPdkAEInbeS84MQJI0gLoQ)
