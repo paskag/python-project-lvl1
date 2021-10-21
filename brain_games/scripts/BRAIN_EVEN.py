@@ -14,10 +14,13 @@ def main():
         r = random.randint(1, 100)
         print(f"Question: {r}")
         ans = input("Your answer: ")
-        if (r % 2 == 0 and ans.lower() == "yes") or (r % 2 == 1 and ans.lower() == "no"):
+        if (r % 2 == 0 and ans.lower() == "yes"):
+            print("Correct!")
+        elif (r % 2 == 1 and ans.lower() == "no"):
             print("Correct!")
         else:
-            print(f"'{ans}' is wrong answer ;(. Correct answer was '{corr(r)}'.")
+            print(f"'{ans}' is wrong answer ;(.", end="")
+            print(f"Correct answer was '{corr(r)}'.")
             print(f"Let's try again, {name}!")
             break
     else:

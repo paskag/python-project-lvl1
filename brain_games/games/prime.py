@@ -1,5 +1,5 @@
 import random
-import prompt 
+import prompt
 
 
 def start_prime():
@@ -17,7 +17,7 @@ def start_prime():
                 flag = "no"
                 break
         if ans == flag:
-            print("Correct!")       
+            print("Correct!")
         else:
             print(f"'{ans}' is wrong answer ;(. Correct answer was '{flag}'.")
             print(f"Let's try again, {name}!")

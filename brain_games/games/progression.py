@@ -1,5 +1,5 @@
 import random
-import prompt 
+import prompt
 
 
 def start_progression():

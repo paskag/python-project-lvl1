@@ -1,6 +1,6 @@
 from operator import add, mul, sub
 import random
-import prompt 
+import prompt
 
 
 def start_calc():
@@ -18,7 +18,8 @@ def start_calc():
         if d[action](num1, num2) == ans:
             print("Correct!")
         else:
-            print(f"'{ans}' is wrong answer ;(. Correct answer was '{d[action](num1, num2)}'.")
+            print(f"'{ans}' is wrong answer ;(.", end="")
+            print(f"Correct answer was '{d[action](num1, num2)}'.")
             print(f"Let's try again, {name}!")
             break
     else:
