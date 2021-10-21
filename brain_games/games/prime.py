@@ -8,14 +8,15 @@ def start_prime():
     print(f"Hello, {name}!")
     print('Answer "yes" if given number is prime. Otherwise answer "no".')
     for i in range(3):
-        num = random.randint(1, 100)
+        num = random.randint(2, 100)
         flag = "yes"
         print(f"Question: {num}")
         ans = input("Your answer: ")
-        for i in range(2, num):
-            if num % i == 0:
-                flag = "no"
-                break
+        if num != 2:
+            for i in range(2, num):
+                if num % i == 0:
+                    flag = "no"
+                    break
         if ans == flag:
             print("Correct!")
         else:
