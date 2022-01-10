@@ -1,3 +1,5 @@
+#Это мой первый проект. Сделан полностью мною.
+
 ### Hexlet tests and linter status:
 [![Actions Status](https://github.com/paskag/python-project-lvl1/workflows/hexlet-check/badge.svg)](https://github.com/paskag/python-project-lvl1/actions)
 [![Maintainability](https://api.codeclimate.com/v1/badges/a99a88d28ad37a79dbf6/maintainability)](https://codeclimate.com/github/codeclimate/codeclimate/maintainability)
@@ -13,7 +15,7 @@
 4. Игра "Арифметическая прогрессия" (brain-progression)
 5. Игра "Простое ли число?" (brain-prime)
 
-Запускайте игры и следуйте иннструкциям. Удачи!
+Запускайте игры и следуйте инструкциям. Удачи!
 
 ### brain-even
 [![asciicast](https://asciinema.org/a/Z3RE9E2ZRdITcA1QybGSUUqYH.svg)](https://asciinema.org/a/Z3RE9E2ZRdITcA1QybGSUUqYH)
