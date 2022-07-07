@@ -1,21 +1,21 @@
-# Это мой первый проект. Сделан полностью мною.
+# This is my first ever project.
 
 ### Hexlet tests and linter status:
 [![Actions Status](https://github.com/paskag/python-project-lvl1/workflows/hexlet-check/badge.svg)](https://github.com/paskag/python-project-lvl1/actions)
 [![Maintainability](https://api.codeclimate.com/v1/badges/a99a88d28ad37a79dbf6/maintainability)](https://codeclimate.com/github/codeclimate/codeclimate/maintainability)
 [![Python CI](https://github.com/paskag/python-project-lvl1/workflows/Python%20CI/badge.svg)](https://github.com/paskag/python-project-lvl1/actions)
 
-Добро пожаловать в игру Brain Games!
+Welcome to the Brain Games
 
-Всего доступно 5 игр. Вы можете выбрать любую на выбор. А можете сыграть в каждую игру.
+There are 5 games available. You can choose any game you want. Or you can play every game.
 
-1. Игра: "Проверка на чётность" (brain-even)
-2. Игра: "Калькулятор" (brain-calc)
-3. Игра "Наименьший общий делитель" (brain-gcd)
-4. Игра "Арифметическая прогрессия" (brain-progression)
-5. Игра "Простое ли число?" (brain-prime)
+1. Game: "Is number even?" (brain-even)
+2. Game: "Calculator" (brain-calc)
+3. Game: "Greatest common divisior" (brain-gcd)
+4. Game: "Arithmetic progression" (brain-progression)
+5. Game: "Is number prime?" (brain-prime)
 
-Запускайте игры и следуйте инструкциям. Удачи!
+Run the games and follow the instructions!
 
 ### brain-even
 [![asciicast](https://asciinema.org/a/Z3RE9E2ZRdITcA1QybGSUUqYH.svg)](https://asciinema.org/a/Z3RE9E2ZRdITcA1QybGSUUqYH)
